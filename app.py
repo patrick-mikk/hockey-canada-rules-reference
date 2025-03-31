@@ -327,7 +327,7 @@ def get_rule_overview(rule):
     }
     
     # Return the overview if available, otherwise create a generic one
-    base_rule_num = rule["number"].split(" ")[0]
+    base_rule_num = rule["number"].split(" ")[0].split("(")[0].strip()
     if base_rule_num in rule_overviews:
         return rule_overviews[base_rule_num]
     else:
