@@ -1,0 +1,553 @@
+Rule Name,Rule #,Section,Description
+Rink,1.1,PLAYING AREA,Defines ice hockey playing surface as a "Rink".
+Rink Dimensions,1.2,PLAYING AREA,Specifies rink size boards glass and logos.
+Rink Dimensions,1.2(a),PLAYING AREA,Recommended rink dimensions of 60.96m x 30.48m maximum 60.96m x 25.91m minimum with 8.53m corner radius.
+Rink Dimensions,1.2(b),PLAYING AREA,Boards to be 1.02-1.22m high with white surface facing ice and 30.48cm light-colored base plate.
+Rink Dimensions,1.2(c),PLAYING AREA,Recommends glass or plexiglass mounted to boards to prevent pucks entering spectator areas.
+Rink Dimensions,1.2(d),PLAYING AREA,Logos must not disrupt official ice markings; recommends no logos in end zones.
+Division of Ice Surface,1.3,PLAYING AREA,Describes all lines and zones on the ice surface.
+Division of Ice Surface,1.3(a),PLAYING AREA,Red goal line 5.08cm wide 3.35m from each end parallel to end boards.
+Division of Ice Surface,1.3(b),PLAYING AREA,Blue lines 30.48cm wide positioned based on rink length.
+Division of Ice Surface,1.3(c),PLAYING AREA,Red center line 30.48cm wide midway between goal lines.
+Division of Ice Surface,1.3(d),PLAYING AREA,Defines defending zone neutral zone and attacking zone.
+Goal Posts and Nets,1.4,PLAYING AREA,Details goal specifications and installation.
+Goal Posts and Nets,1.4(a),PLAYING AREA,Goals positioned in center of goal lines with stationary posts and nets.
+Goal Posts and Nets,1.4(b),PLAYING AREA,Posts set 1.83m apart 1.22m high with crossbar; all 5.08cm in diameter.
+Goal Posts and Nets,1.4(c),PLAYING AREA,Net of approved design attached to back of goal.
+Goal Posts and Nets,1.4(d),PLAYING AREA,Goal frame painted red.
+Goal Crease,1.5,PLAYING AREA,Defines the goal crease area.
+Goal Crease,1.5(a),PLAYING AREA,Goal crease marked by 5.08cm red line.
+Goal Crease,1.5(b),PLAYING AREA,Semi-circle of 1.82m radius with L-shaped markings in front corners.
+Goal Crease,1.5(c),PLAYING AREA,Crease includes space outlined by lines and extends vertically to top of goal frame.
+Centre Ice Spot and Circle,1.6,PLAYING AREA,Describes center ice markings.
+Centre Ice Spot and Circle,1.6(a),PLAYING AREA,30.48cm blue spot in center with 4.57m radius circle marked by 5.08cm blue line.
+Face-off Spots in Neutral Zone,1.7,PLAYING AREA,Details neutral zone face-off spot positioning.
+Face-off Spots in Neutral Zone,1.7(a),PLAYING AREA,Two 60.96cm red spots in neutral zone 1.52m from each blue line.
+End Zone Face-off Spots and Circles,1.8,PLAYING AREA,Describes end zone face-off spots and circles.
+End Zone Face-off Spots and Circles,1.8(a),PLAYING AREA,Red spots and circles with specific dimensions and markings.
+End Zone Face-off Spots and Circles,1.8(b),PLAYING AREA,Located 6.09m from goal lines and 6.71m from center of rink.
+End Zone Face-off Spots and Circles,1.8(c),PLAYING AREA,Circles reduced in smaller rinks to maintain 60.96cm from boards.
+Players' Bench,1.9,PLAYING AREA,Requirements for team benches.
+Players' Bench,1.9(a),PLAYING AREA,Seats or bench for each team accommodating at least 14 players in neutral zone.
+Players' Bench,1.9(b),PLAYING AREA,Gates should open away from ice.
+Players' Bench,1.9(c),PLAYING AREA,Only uniformed players and maximum 5 team officials permitted on bench.
+Players' Bench,1.9(d),PLAYING AREA,Team officials restricted to bench area during game.
+Players' Bench,1.9(e),PLAYING AREA,Home team chooses end and corresponding bench for game start.
+Penalty Bench,1.10,PLAYING AREA,Requirements for penalty benches.
+Penalty Bench,1.10(a),PLAYING AREA,Separate area with seats for 8 people including penalized players and officials.
+Penalty Bench,1.10(b),PLAYING AREA,Gates should open away from ice; separate home and visitor benches.
+Penalty Bench,1.10(c),PLAYING AREA,When penalty gates are at unequal distances closer one is for visiting team.
+Referee's Crease,1.11,PLAYING AREA,Defines area in front of timekeeper for referees.
+Referee's Crease,1.11(a),PLAYING AREA,Semi-circular red line with 3.05m radius in front of timekeeper; players not allowed without direction.
+Signal and Timing Devices,1.12,PLAYING AREA,Required timing and signaling equipment.
+Signal and Timing Devices,1.12(a),PLAYING AREA,Sound device for timekeeper.
+Signal and Timing Devices,1.12(b),PLAYING AREA,Clock visible to spectators players and officials.
+Signal and Timing Devices,1.12(c),PLAYING AREA,Red light behind each goal for goal judge; recommends green light/buzzer for period end.
+Dressing Rooms,1.13,PLAYING AREA,Requirements for team and official dressing rooms.
+Dressing Rooms,1.13(a),PLAYING AREA,Suitable room with toilet and shower for visiting team.
+Dressing Rooms,1.13(b),PLAYING AREA,Separate room with toilet and shower for officials.
+Dressing Rooms,1.13(c),PLAYING AREA,No inappropriate discussions between team personnel and officials.
+Dressing Rooms,1.13(d),PLAYING AREA,Only authorized league/member representatives allowed in officials' room.
+Rink Lighting,1.14,PLAYING AREA,Lighting requirements.
+Rink Lighting,1.14(a),PLAYING AREA,Rinks must be adequately lit for players and spectators.
+Composition of Team,2.1,TEAMS,Defines team composition limits.
+Composition of Team,2.1(a),TEAMS,Maximum 6 players on ice during play.
+Composition of Team,2.1(b),TEAMS,Maximum 5 team officials on bench including at least one Safety Person.
+Players in Uniform,2.2,TEAMS,Rules for eligible players and team rosters.
+Players in Uniform,2.2(a),TEAMS,Maximum 20 players in uniform (up to 18 skaters 2 goaltenders); minimum 6 to start.
+Players in Uniform,2.2(b),TEAMS,Team officials must provide player list before game; visiting team lists first.
+Players in Uniform,2.2(c),TEAMS,Penalty for false statements on game report.
+Players in Uniform,2.2(d),TEAMS,Players must identify themselves when requested by referee.
+Players in Uniform,2.2(e),TEAMS,Players must wear numbers at least 25.40cm high on back of jersey.
+Players in Uniform,2.2(f),TEAMS,One goaltender allowed on ice; may be substituted for skater.
+Players in Uniform,2.2(g),TEAMS,Only goaltenders permitted to wear goaltender equipment.
+Players in Uniform,2.2(h),TEAMS,Alternate goaltender must take position immediately with no warm-up.
+Players in Uniform,2.2(i),TEAMS,Pre-game warm-up restricted to own half of ice.
+Players in Uniform,2.2(j),TEAMS,Penalties during warm-up served at start of game.
+Players in Uniform,2.2(k),TEAMS,Maximum 20 players in warm-up; not necessarily on game report.
+Players in Uniform,2.2(l),TEAMS,Suspended players not permitted in warm-up or on bench.
+Players in Uniform,2.2(m),TEAMS,Injured players allowed on bench in minor/female hockey if wearing minimum equipment.
+Team Captains,2.3,TEAMS,Duties and identification of team captains.
+Team Captains,2.3(a),TEAMS,Each team may have captain and up to three alternates.
+Team Captains,2.3(b),TEAMS,"C" and "A" must be worn visibly on jersey; approx. 7.62cm high.
+Team Captains,2.3(c),TEAMS,Captains lose privileges while serving penalties.
+Team Captains,2.3(d),TEAMS,Goaltenders or team officials cannot be captains/alternates.
+Injured Players,2.4,TEAMS,Procedures for handling injured players.
+Injured Players,2.4(a),TEAMS,Injured players must be replaced by substitutes.
+Injured Players,2.4(b),TEAMS,Play continues until injured player's team gains possession; injured player must leave ice.
+Injured Players,2.4(c),TEAMS,Injured goaltender must be replaced by alternate or player with goaltender privileges.
+Injured Players,2.4(d),TEAMS,Player replacing goaltender must follow equipment rules.
+Injured Players,2.4(e),TEAMS,For serious injuries referee may allow players to leave ice.
+Injured Players,2.4(f),TEAMS,Injured penalized players may go to dressing room if replaced in penalty box.
+Measurement of Equipment,3.1,EQUIPMENT,Procedures for measuring equipment.
+Measurement of Equipment,3.1(a),EQUIPMENT,Equipment measurement done at referee's crease when requested by captain.
+Measurement of Equipment,3.1(b),EQUIPMENT,Complaining team penalized if measurement not sustained.
+Measurement of Equipment,3.1(c),EQUIPMENT,Only one measurement per stoppage.
+Measurement of Equipment,3.1(d),EQUIPMENT,Illegal equipment corrected without unnecessary delay.
+Measurement of Equipment,3.1(e),EQUIPMENT,Captain must specify which part of stick to measure.
+Measurement of Equipment,3.1(f),EQUIPMENT,No goals disallowed due to measurements.
+Measurement of Equipment,3.1(g),EQUIPMENT,Violations result in illegal equipment penalties.
+Lost or Broken Sticks,3.2,EQUIPMENT,Rules for broken or lost sticks.
+Lost or Broken Sticks,3.2(a),EQUIPMENT,Players must drop broken stick pieces immediately.
+Lost or Broken Sticks,3.2(b),EQUIPMENT,Players may only receive sticks from bench or teammates on ice.
+Lost or Broken Sticks,3.2(c),EQUIPMENT,Goaltenders may use player's stick until next stoppage.
+Lost or Broken Sticks,3.2(d),EQUIPMENT,Violations result in illegal equipment penalties.
+Sticks,3.3,EQUIPMENT,Specifications for player and goaltender sticks.
+Sticks,3.3(a),EQUIPMENT,Approved materials; no unauthorized modifications.
+Sticks,3.3(b),EQUIPMENT,Player stick maximum 1.60m long blade 5.08-7.62cm wide.
+Sticks,3.3(c),EQUIPMENT,Goaltender stick maximum 1.4m long with specific blade dimensions.
+Sticks,3.3(d),EQUIPMENT,Shaft ends must be covered; hollow shafts need protective cap.
+Sticks,3.3(e),EQUIPMENT,Tape of any color permitted.
+Sticks,3.3(f),EQUIPMENT,Players may carry only one stick while playing.
+Sticks,3.3(g),EQUIPMENT,Violations result in illegal equipment penalties.
+Skates,3.4,EQUIPMENT,Requirements for player skates.
+Skates,3.4(a),EQUIPMENT,All players must wear skates.
+Skates,3.4(b),EQUIPMENT,Hockey skates only; no speed or figure skates.
+Skates,3.4(c),EQUIPMENT,Only goaltenders may use goaltender skates.
+Skates,3.4(d),EQUIPMENT,Violations result in illegal equipment penalties.
+Goaltender's Equipment,3.5,EQUIPMENT,Specifications for goaltender equipment.
+Goaltender's Equipment,3.5(a),EQUIPMENT,Equipment for protection only; no additional stopping aids.
+Goaltender's Equipment,3.5(b),EQUIPMENT,Pads maximum 27.94cm wide 96.52cm long minimum boot height 17.78cm.
+Goaltender's Equipment,3.5(c),EQUIPMENT,Blocker maximum 20.3cm wide 38.1cm long; catching glove with specific measurements.
+Goaltender's Equipment,3.5(d),EQUIPMENT,Chest/arm pad restrictions on ridges layering and dimensions.
+Goaltender's Equipment,3.5(e),EQUIPMENT,Violations result in illegal equipment penalties.
+Protective Equipment,3.6,EQUIPMENT,Requirements for player protective gear.
+Protective Equipment,3.6(a),EQUIPMENT,All equipment except gloves headgear and goalie pads must be worn under uniform.
+Protective Equipment,3.6(b),EQUIPMENT,CSA-certified helmet and facial protector required properly fastened.
+Protective Equipment,3.6(c),EQUIPMENT,BNQ-certified throat protector required for minor and female hockey.
+Protective Equipment,3.6(d),EQUIPMENT,Players must replace lost protective equipment or leave ice.
+Protective Equipment,3.6(e),EQUIPMENT,Guidelines for facial protector types based on age and position.
+Protective Equipment,3.6(f),EQUIPMENT,Improper use of protective equipment results in penalties.
+Dangerous or Non-Standard Equipment,3.7,EQUIPMENT,Prohibition of dangerous equipment.
+Dangerous or Non-Standard Equipment,3.7(a),EQUIPMENT,Equipment likely to cause injury prohibited.
+Dangerous or Non-Standard Equipment,3.7(b),EQUIPMENT,Modified equipment prohibited.
+Dangerous or Non-Standard Equipment,3.7(c),EQUIPMENT,Non-standard equipment prohibited.
+Dangerous or Non-Standard Equipment,3.7(d),EQUIPMENT,Elbow pads without soft covering prohibited.
+Dangerous or Non-Standard Equipment,3.7(e),EQUIPMENT,Supplemental oxygen prohibited.
+Dangerous or Non-Standard Equipment,3.7(f),EQUIPMENT,Team warning first then penalties for violations.
+Puck,3.8,EQUIPMENT,Official puck specifications.
+Puck,3.8(a),EQUIPMENT,Vulcanized rubber 2.54cm thick 7.62cm diameter 156-170g black.
+Jersey Tie-Down – Junior/Senior,3.9,EQUIPMENT,Requirements for securing jerseys.
+Jersey Tie-Down – Junior/Senior,3.9(a),EQUIPMENT,Junior/Senior players must wear secure jersey tie-down.
+Penalties,4.1,TYPES OF PENALTIES,Overview of all penalty types.
+Penalties,4.1(a),TYPES OF PENALTIES,Penalties may be assessed before during or after game.
+Penalties,4.1(b),TYPES OF PENALTIES,Coach designates player from ice to serve team penalties.
+Minor Penalties,4.2,TYPES OF PENALTIES,Two-minute penalties resulting in shorthanded play.
+Minor Penalties,4.2(a),TYPES OF PENALTIES,Player except goaltender off ice for 2 minutes.
+Minor Penalties,4.2(b),TYPES OF PENALTIES,Minor penalty terminates if opposing team scores; double minor first penalty terminates.
+Minor Penalties,4.2(c),TYPES OF PENALTIES,Coincidental minors don't cause shorthanded situation.
+Bench Minor Penalties,4.3,TYPES OF PENALTIES,Two-minute team penalties.
+Bench Minor Penalties,4.3(a),TYPES OF PENALTIES,Team plays shorthanded for 2 minutes.
+Bench Minor Penalties,4.3(b),TYPES OF PENALTIES,Coach designates player from ice to serve the penalty.
+Major Penalties,4.4,TYPES OF PENALTIES,Five-minute penalties plus game misconduct.
+Major Penalties,4.4(a),TYPES OF PENALTIES,Any major penalty includes automatic game misconduct; player ordered to dressing room.
+Major Penalties,4.4(b),TYPES OF PENALTIES,Major penalty served before minor if both assessed.
+Coincidental Penalties,4.5,TYPES OF PENALTIES,Equal penalties to both teams at same stoppage.
+Coincidental Penalties,4.5(a),TYPES OF PENALTIES,Teams remain at full strength for coincidental penalties.
+Coincidental Penalties,4.5(b),TYPES OF PENALTIES,Differential in time penalties served by player from ice.
+Coincidental Penalties,4.5(c),TYPES OF PENALTIES,Penalized player serves all penalties in penalty box.
+Coincidental Penalties,4.5(d),TYPES OF PENALTIES,MOTO procedure for canceling penalties: Many One Take Order.
+Coincidental Minor Penalties – Junior,4.6,TYPES OF PENALTIES,Special rules for coincidental minors in Junior.
+Coincidental Minor Penalties – Junior,4.6(a),TYPES OF PENALTIES,Teams play 4-on-4 for single coincidental minors in Junior.
+Coincidental Minor Penalties – Junior,4.6(b),TYPES OF PENALTIES,Time differential penalties served by substitute player.
+Coincidental Minor Penalties – Junior,4.6(c),TYPES OF PENALTIES,Rule doesn't apply to major or match penalties.
+Misconduct Penalties,4.7,TYPES OF PENALTIES,Ten-minute non-time penalties.
+Misconduct Penalties,4.7(a),TYPES OF PENALTIES,Player serves 10 minutes but team doesn't play shorthanded.
+Misconduct Penalties,4.7(b),TYPES OF PENALTIES,Team places substitute in box for minor + misconduct.
+Misconduct Penalties,4.7(c),TYPES OF PENALTIES,Second misconduct results in game misconduct.
+Game Ejection & Game Misconduct Penalties,4.8,TYPES OF PENALTIES,Removal from game penalties.
+Game Ejection & Game Misconduct Penalties,4.8(a),TYPES OF PENALTIES,Game misconduct results in removal from game; 10 minutes recorded.
+Game Ejection & Game Misconduct Penalties,4.8(b),TYPES OF PENALTIES,Game ejection assessed for accumulation of certain penalties.
+Game Ejection & Game Misconduct Penalties,4.8(c),TYPES OF PENALTIES,Game misconduct in last 10 minutes results in automatic one-game suspension.
+Gross Misconduct Penalties,4.9,TYPES OF PENALTIES,Severe misconduct resulting in removal.
+Gross Misconduct Penalties,4.9(a),TYPES OF PENALTIES,Player/official ordered to dressing room; 10 minutes recorded.
+Gross Misconduct Penalties,4.9(b),TYPES OF PENALTIES,If assessed in last 10 minutes results in automatic one-game suspension.
+Match Penalties,4.10,TYPES OF PENALTIES,Five-minute time penalty plus removal for attempt to injure.
+Match Penalties,4.10(a),TYPES OF PENALTIES,Player/official ordered to dressing room for balance of game.
+Match Penalties,4.10(b),TYPES OF PENALTIES,Team sends player from ice to serve 5-minute time penalty.
+Penalty Shots,4.11,TYPES OF PENALTIES,Non-time penalties awarded in lieu of minors.
+Penalty Shots,4.11(a),TYPES OF PENALTIES,Awarded for various infractions including breakaway fouls.
+Penalty Shots,4.11(b),TYPES OF PENALTIES,Procedure for conducting penalty shots.
+Penalty Shots,4.11(c),TYPES OF PENALTIES,Penalties for interfering with penalty shot.
+Penalty Shots,4.11(d),TYPES OF PENALTIES,Penalty shot awarded even if time expires.
+Penalty Shots,4.11(e),TYPES OF PENALTIES,Player committing foul cannot take penalty shot.
+Penalty Shots,4.11(f),TYPES OF PENALTIES,No additional minor penalty if penalty shot awarded.
+Penalty Shots,4.11(g),TYPES OF PENALTIES,Stick measurement requests during penalty shots.
+Awarded Goals,4.12,TYPES OF PENALTIES,Goals awarded without being scored.
+Awarded Goals,4.12(a),TYPES OF PENALTIES,Awarded when defending team without goaltender commits penalty that would result in penalty shot.
+Awarded Goals,4.12(b),TYPES OF PENALTIES,Goaltender considered "substituted" after legal player change.
+Awarded Goals,4.12(c),TYPES OF PENALTIES,No assists given on awarded goals.
+Goaltender Penalties,4.13,TYPES OF PENALTIES,Special rules for goaltender penalties.
+Goaltender Penalties,4.13(a),TYPES OF PENALTIES,Any goaltender penalty served by player who was on ice.
+Goaltender Penalties,4.13(b),TYPES OF PENALTIES,Alternate goaltender replaces ejected goaltender.
+Goaltender Penalties,4.13(c),TYPES OF PENALTIES,Goaltender penalized for playing beyond center red line.
+Delayed Penalties,4.14,TYPES OF PENALTIES,Rules for teams with multiple penalties.
+Delayed Penalties,4.14(a),TYPES OF PENALTIES,Third penalty delayed until one expires when two players serving penalties.
+Delayed Penalties,4.14(b),TYPES OF PENALTIES,Players with expired penalties remain in box until stoppage.
+Delayed Penalties,4.14(c),TYPES OF PENALTIES,Players return in order of penalty expiry.
+Delayed Penalties,4.14(d),TYPES OF PENALTIES,Penalties served in order of occurrence.
+Delayed Penalties,4.14(e),TYPES OF PENALTIES,Not applicable to coincidental penalties.
+Calling of Penalties,4.15,TYPES OF PENALTIES,Procedures for signaling and assessing penalties.
+Calling of Penalties,4.15(a),TYPES OF PENALTIES,Play stopped immediately for penalty by team in possession.
+Calling of Penalties,4.15(b),TYPES OF PENALTIES,Delayed penalty signal for team not in possession; goal cancels minor penalty.
+Calling of Penalties,4.15(c),TYPES OF PENALTIES,Match penalties stop play immediately.
+Calling of Penalties,4.15(d),TYPES OF PENALTIES,Captain helps identify penalized player if number not known.
+Calling of Penalties,4.15(e),TYPES OF PENALTIES,Referee can correct penalty decision before play resumes.
+Appointment of Officials,5.1,OFFICIALS,Authority for appointing game officials.
+Appointment of Officials,5.1(a),OFFICIALS,Members may use two three or four-official systems.
+Appointment of Officials,5.1(b),OFFICIALS,Officials must be treated with courtesy by players and team officials.
+Appointment of Officials,5.1(c),OFFICIALS,Referee has full authority on disputed matters.
+Appointment of Officials,5.1(d),OFFICIALS,Officials appointed by requirements for regional/national events.
+Appointment of Officials,5.1(e),OFFICIALS,All referees under control of Member in their jurisdiction.
+Appointment of Officials,5.1(f),OFFICIALS,Officials must be impartial.
+Referee(s) and Linespersons,5.2,OFFICIALS,Duties of on-ice officials.
+Referee(s) and Linespersons,5.2(a),OFFICIALS,Officials are representatives of Hockey Canada or Member.
+Referee(s) and Linespersons,5.2(b),OFFICIALS,Referees call teams to ice remain until players exit.
+Referee(s) and Linespersons,5.2(c),OFFICIALS,Referees check equipment when requested.
+Referee(s) and Linespersons,5.2(d),OFFICIALS,Referees assess penalties according to rules.
+Referee(s) and Linespersons,5.2(e),OFFICIALS,Referees give final decision on disputed goals.
+Referee(s) and Linespersons,5.2(f),OFFICIALS,Referees verify off-ice officials before game.
+Referee(s) and Linespersons,5.2(g),OFFICIALS,Referees announce penalties goals assists to scorer.
+Referee(s) and Linespersons,5.2(h),OFFICIALS,Referees separate opposing players on penalty bench.
+Referee(s) and Linespersons,5.2(i),OFFICIALS,Referees check and sign game report.
+Referee(s) and Linespersons,5.2(j),OFFICIALS,Play stopped if official injured during play.
+Referee(s) and Linespersons,5.2(k),OFFICIALS,Teams agree on officials if appointed ones unavailable.
+Referee(s) and Linespersons,5.2(l),OFFICIALS,Referee appoints replacement for unavailable linesperson.
+Referee(s) and Linespersons,5.2(m),OFFICIALS,Linesperson performs referee duties if referee unable to continue.
+Referee(s) and Linespersons,5.2(n),OFFICIALS,In two-referee system both perform linesperson duties.
+Linespersons,5.3,OFFICIALS,Specific duties of linespersons.
+Linespersons,5.3(a),OFFICIALS,Stop play for various violations including offsides icings etc.
+Linespersons,5.3(b),OFFICIALS,Report too many players violations at next stoppage.
+Linespersons,5.3(c),OFFICIALS,Report certain minor bench minor or double minor infractions to referee.
+Linespersons,5.3(d),OFFICIALS,Report major match or misconduct infractions to referee.
+Linespersons,5.3(e),OFFICIALS,Provide information about incidents when asked by referee.
+Goal Judges,5.4,OFFICIALS,Duties of goal judges.
+Goal Judges,5.4(a),OFFICIALS,One goal judge behind each goal; not members of competing teams.
+Goal Judges,5.4(b),OFFICIALS,Goal judges remain in same position whole game.
+Goal Judges,5.4(c),OFFICIALS,Goal judges decide if puck entered goal; decision is goal or no goal.
+Goal Judges,5.5(d),OFFICIALS,Referee not required to consult goal judge if certain of call.
+Penalty Timekeeper,5.5,OFFICIALS,Duties of penalty timekeeper.
+Penalty Timekeeper,5.5(a),OFFICIALS,Records penalty time; informs penalized players of remaining time.
+Penalty Timekeeper,5.5(b),OFFICIALS,Signals referee if player leaves penalty box early.
+Penalty Timekeeper,5.5(c),OFFICIALS,Announces penalized player infraction and time when PA available.
+Official Scorer,5.6,OFFICIALS,Duties of game scorekeeper.
+Official Scorer,5.6(a),OFFICIALS,Obtains verified lineups from team officials before game.
+Official Scorer,5.6(b),OFFICIALS,Provides lineup to referee and notes rule compliance issues.
+Official Scorer,5.6(c),OFFICIALS,Records goals assists penalties on game report.
+Official Scorer,5.6(d),OFFICIALS,Announces goal scorer and assistants when PA available.
+Official Scorer,5.6(e),OFFICIALS,Advises referee of repeated penalties (misconduct stick infractions).
+Official Scorer,5.6(f),OFFICIALS,Signs game report has referee sign forwards to proper authority.
+Game Timekeeper,5.7,OFFICIALS,Duties of game timekeeper.
+Game Timekeeper,5.7(a),OFFICIALS,Records start/finish times and actual playing time.
+Game Timekeeper,5.7(b),OFFICIALS,Signals start/end of periods and overtimes.
+Game Timekeeper,5.7(c),OFFICIALS,Announces one minute remaining in each period.
+Game Timekeeper,5.7(d),OFFICIALS,Referee makes final decision on time disputes.
+Change of Players,6.1,GAME FLOW,Rules for player substitutions.
+Change of Players,6.1(a),GAME FLOW,Maximum 6 players on ice; changes allowed from players' bench.
+Change of Players,6.1(b),GAME FLOW,Players leaving penalty box must return via ice.
+Change of Players,6.1(c),GAME FLOW,Teams must place correct number on ice; visiting team places lineup first.
+Change of Players,6.1(d),GAME FLOW,Referee controls line change procedure at stoppages.
+Change of Players,6.1(e),GAME FLOW,Players stay at bench during scrums until referee signals change.
+Change of Players,6.1(f),GAME FLOW,No line change after icing in select categories.
+Face-off Conduct,6.2,GAME FLOW,Procedures for conducting face-offs.
+Face-off Conduct,6.2(a),GAME FLOW,Players taking face-off positioned properly; other players 4.57m away.
+Face-off Conduct,6.2(b),GAME FLOW,No goaltender may participate in face-off.
+Face-off Conduct,6.2(c),GAME FLOW,No physical contact before face-off except playing puck after completion.
+Face-off Conduct,6.2(d),GAME FLOW,Ejection from face-off for violations; replacement required.
+Face-off Conduct,6.2(e),GAME FLOW,Minor penalty for second violation during same face-off.
+Face-off Conduct,6.2(f),GAME FLOW,No player changes after "false start" face-off.
+Face-off Location,6.3,GAME FLOW,Rules determining where face-offs occur.
+Face-off Location,6.3(a),GAME FLOW,Center ice face-offs only at start of periods after goals or specific situations.
+Face-off Location,6.3(b),GAME FLOW,For non-penalty stoppages face-off at nearest spot to puck.
+Face-off Location,6.3(c),GAME FLOW,Penalties result in face-off in offending team's defending zone with exceptions.
+Face-off Location,6.3(d),GAME FLOW,Neutral zone face-offs conducted at spots nearest blue line; specific rules for violations.
+Face-off Location,6.3(e),GAME FLOW,End-zone face-off locations determined by specific scenarios.
+Face-off Location – Junior & Senior,6.4,GAME FLOW,Special face-off rules for Junior/Senior.
+Face-off Location – Junior & Senior,6.4(a),GAME FLOW,Defending team can't change lines after unintentional puck out of play.
+Face-off Location – Junior & Senior,6.4(b),GAME FLOW,Attacking team chooses face-off location after icing or penalty.
+Face-off Violation – Junior,6.5,GAME FLOW,Violation procedures after icing in Junior.
+Face-off Violation – Junior,6.5(a),GAME FLOW,First violation results in warning.
+Face-off Violation – Junior,6.5(b),GAME FLOW,Subsequent violations on same stoppage result in minor penalty.
+Goals and Assists,6.6,GAME FLOW,Rules for scoring and crediting goals.
+Goals and Assists,6.6(a),GAME FLOW,Goal scored when puck completely crosses goal line.
+Goals and Assists,6.6(b),GAME FLOW,Goal credited to last attacking player if defender puts in own net.
+Goals and Assists,6.6(c),GAME FLOW,No goal if puck kicked or deliberately directed with body part.
+Goals and Assists,6.6(d),GAME FLOW,Goal allowed if deflected off attacking player.
+Goals and Assists,6.6(e),GAME FLOW,No goal if puck deflects directly off official into net.
+Goals and Assists,6.6(f),GAME FLOW,Goal legal if puck propelled into crease before scoring.
+Goals and Assists,6.6(g),GAME FLOW,Maximum two assists per goal recorded.
+Icing the Puck,6.7,GAME FLOW,Rules for icing violations.
+Icing the Puck,6.7(a),GAME FLOW,Icing called when team shoots puck from own half across opposing goal line.
+Icing the Puck,6.7(b),GAME FLOW,No icing if team is shorthanded.
+Icing the Puck,6.7(c),GAME FLOW,Exceptions to icing including if opposing player could play puck.
+Icing the Puck,6.7(d),GAME FLOW,No line change after icing in specified categories.
+Icing the Puck,6.7(e),GAME FLOW,Hybrid icing rules for higher categories.
+Interference by Spectators,6.8,GAME FLOW,Handling spectator interference with play.
+Interference by Spectators,6.8(a),GAME FLOW,Play stopped if spectator holds/interferes with player.
+Interference by Spectators,6.8(b),GAME FLOW,Play stopped if objects thrown on ice.
+High-Sticking the Puck,6.9,GAME FLOW,Rules for playing puck above shoulder height.
+High-Sticking the Puck,6.9(a),GAME FLOW,Play stopped if team contacts puck above shoulder height and gains possession.
+High-Sticking the Puck,6.9(b),GAME FLOW,No goal scored by high-sticking puck except in own goal.
+High-Sticking the Puck,6.9(c),GAME FLOW,High-sticking that contacts opponent penalized under Head Contact.
+High-Sticking the Puck – Junior/Senior,6.10,GAME FLOW,Junior/Senior high-sticking rules.
+High-Sticking the Puck – Junior/Senior,6.10(a),GAME FLOW,Play stopped if team contacts puck above shoulder height and gains possession.
+High-Sticking the Puck – Junior/Senior,6.10(b),GAME FLOW,No goal scored by high-sticking except in own goal.
+High-Sticking the Puck – Junior/Senior,6.10(c),GAME FLOW,High-sticking that contacts opponent penalized under High-Sticking.
+High-Sticking the Puck – Junior/Senior,6.10(d),GAME FLOW,No goal if puck contacted above crossbar by attacking player.
+Kicking the Puck,6.11,GAME FLOW,Rules for kicking the puck.
+Kicking the Puck,6.11(a),GAME FLOW,Kicking permitted in all zones.
+Kicking the Puck,6.11(b),GAME FLOW,No goal can result from attacking player kicking puck.
+Kicking the Puck,6.11(c),GAME FLOW,No goal if attacking player kicks object that propels puck into goal.
+Off-side,6.12,GAME FLOW,Rules for off-side violations.
+Off-side,6.12(a),GAME FLOW,Player off-side when both skates cross blue line before puck.
+Off-side,6.12(b),GAME FLOW,Delayed off-side procedure if players precede puck into zone.
+Off-side,6.12(c),GAME FLOW,Exceptions where player not considered off-side.
+Off-side,6.12(d),GAME FLOW,Intentional off-side results in defensive zone face-off.
+Puck Out of Bounds or Unplayable,6.13,GAME FLOW,Procedures when puck leaves play.
+Puck Out of Bounds or Unplayable,6.13(a),GAME FLOW,Face-off when puck goes out of bounds or becomes unplayable.
+Puck Out of Bounds or Unplayable,6.13(b),GAME FLOW,Penalty for deliberately putting puck out of play.
+Puck Out of Bounds or Unplayable,6.13(c),GAME FLOW,Play continues if puck quickly removed from back of net.
+Puck Out of Bounds or Unplayable,6.13(d),GAME FLOW,Penalty to goaltender who deliberately freezes puck on netting.
+Puck Out of Sight and Illegal Puck,6.14,GAME FLOW,Handling invisible or illegal pucks.
+Puck Out of Sight and Illegal Puck,6.14(a),GAME FLOW,Play stopped when referee loses sight of puck.
+Puck Out of Sight and Illegal Puck,6.14(b),GAME FLOW,Play continues if second puck appears unless it interferes with play.
+Puck Striking Official,6.15,GAME FLOW,Rules when puck hits official.
+Puck Striking Official,6.15(a),GAME FLOW,Play continues if puck touches official except if entering net or exiting play.
+Start of Game or Periods,6.16,GAME FLOW,Procedures for starting game and periods.
+Start of Game or Periods,6.16(a),GAME FLOW,Game starts at scheduled time; no delays for ceremonies without consent.
+Start of Game or Periods,6.16(b),GAME FLOW,Face-off at center ice starts each period and after goals.
+Start of Game or Periods,6.16(c),GAME FLOW,Only players taking face-off allowed on ice at period start.
+Tied Game,6.17,GAME FLOW,Overtime procedures.
+Tied Game,6.17(a),GAME FLOW,10-minute sudden-victory period then 20-minute period if needed.
+Tied Game,6.17(b),GAME FLOW,Penalties remain in effect for overtime.
+Tied Game,6.17(c),GAME FLOW,Teams refusing to play overtime follow Refusing to Start Play rule.
+Time of Game,6.18,GAME FLOW,Regulation time and timeout rules.
+Time of Game,6.18(a),GAME FLOW,Three 20-minute periods with 10-minute intermissions.
+Time of Game,6.18(b),GAME FLOW,Team with most goals is winner.
+Time of Game,6.18(c),GAME FLOW,Teams change ends each period; ice resurfaced between periods.
+Time of Game,6.18(d),GAME FLOW,Unusual delays near period end may trigger early intermission.
+Time of Game,6.18(e),GAME FLOW,Each team allowed one 30-second timeout during game.
+Attempt to Injure or Deliberate Injury,7.1,PHYSICAL FOULS,Penalties for intentionally causing harm.
+Attempt to Injure or Deliberate Injury,7.1(a),PHYSICAL FOULS,Double minor for minimal violence actions like hair pulling grabbing facial protector head-butting.
+Attempt to Injure or Deliberate Injury,7.1(b),PHYSICAL FOULS,Major and game misconduct for higher degree of violence or resulting injury.
+Attempt to Injure or Deliberate Injury,7.1(c),PHYSICAL FOULS,Match penalty for deliberate attempt to or actual injury of opponent.
+Attempt to Injure or Deliberate Injury,7.1(d),PHYSICAL FOULS,No misconduct penalty for attempt to injure.
+Attempt to Injure or Deliberate Injury,7.1(e),PHYSICAL FOULS,No game misconduct for attempt to injure.
+Attempt to Injure or Deliberate Injury,7.1(f),PHYSICAL FOULS,Team officials receive gross misconduct for head-butting attempts.
+Boarding,7.2,PHYSICAL FOULS,Penalties for dangerous checks into boards.
+Boarding,7.2(a),PHYSICAL FOULS,Minor for checking defenseless player into boards.
+Boarding,7.2(b),PHYSICAL FOULS,Major and game misconduct based on violence of impact or if injury results.
+Boarding,7.2(c),PHYSICAL FOULS,Match penalty for deliberate attempt to injure by boarding.
+Boarding,7.2(d),PHYSICAL FOULS,No misconduct penalty for boarding.
+Boarding,7.2(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Body-Checking,7.3,PHYSICAL FOULS,Rules for divisions where body-checking prohibited.
+Body-Checking,7.3(a),PHYSICAL FOULS,Minor for intentional body-check in U13 female hockey and other specified divisions.
+Body-Checking,7.3(b),PHYSICAL FOULS,Major and game misconduct based on impact violence or if injury results.
+Body-Checking,7.3(c),PHYSICAL FOULS,Match penalty for deliberate attempt to injure by body-checking.
+Body-Checking,7.3(d),PHYSICAL FOULS,No misconduct penalty for body-checking.
+Body-Checking,7.3(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Charging,7.4,PHYSICAL FOULS,Penalties for excessive speed or distance before contact.
+Charging,7.4(a),PHYSICAL FOULS,Minor for charging; includes blindside hits.
+Charging,7.4(b),PHYSICAL FOULS,Major and game misconduct based on violence of impact or if injury results.
+Charging,7.4(c),PHYSICAL FOULS,Match penalty for charging player unable to defend or deliberate injury attempt.
+Charging,7.4(d),PHYSICAL FOULS,No misconduct penalty for charging.
+Charging,7.4(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Checking from Behind,7.5,PHYSICAL FOULS,Penalties for hits from behind.
+Checking from Behind,7.5(a),PHYSICAL FOULS,Minor and game misconduct for intentional check from behind.
+Checking from Behind,7.5(b),PHYSICAL FOULS,Major and game misconduct based on violence or if injury results.
+Checking from Behind,7.5(c),PHYSICAL FOULS,Match penalty for check from behind into boards/goal or deliberate injury attempt.
+Checking from Behind,7.5(d),PHYSICAL FOULS,No misconduct penalty for checking from behind.
+Checking from Behind,7.5(e),PHYSICAL FOULS,Game misconduct when minor or major penalty assessed.
+Head Contact,7.6,PHYSICAL FOULS,Penalties for contact to head face or neck in minor/female hockey.
+Head Contact,7.6(a),PHYSICAL FOULS,Minor for accidental contact; double minor for intentional contact. Three minors results in game ejection.
+Head Contact,7.6(b),PHYSICAL FOULS,Major and game misconduct based on violence or if injury results.
+Head Contact,7.6(c),PHYSICAL FOULS,Match penalty for hit preventing self-defense or deliberate injury attempt.
+Head Contact,7.6(d),PHYSICAL FOULS,No misconduct penalty for head contact.
+Head Contact,7.6(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Head Contact – Junior/Senior,7.7,PHYSICAL FOULS,Head contact rules for junior/senior divisions.
+Head Contact – Junior/Senior,7.7(a),PHYSICAL FOULS,Minor and misconduct for head contact with moderate violence.
+Head Contact – Junior/Senior,7.7(b),PHYSICAL FOULS,Major and game misconduct for high degree of violence or resulting in head injury.
+Head Contact – Junior/Senior,7.7(c),PHYSICAL FOULS,Match penalty for hit preventing self-defense or deliberate injury attempt.
+Head Contact – Junior/Senior,7.7(d),PHYSICAL FOULS,Misconduct penalty when minor penalty assessed.
+Head Contact – Junior/Senior,7.7(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Kneeing,7.8,PHYSICAL FOULS,Penalties for making contact with the knee.
+Kneeing,7.8(a),PHYSICAL FOULS,Double minor for kneeing.
+Kneeing,7.8(b),PHYSICAL FOULS,Major and game misconduct based on violence or if injury results.
+Kneeing,7.8(c),PHYSICAL FOULS,Match penalty for deliberate attempt to injure by kneeing.
+Kneeing,7.8(d),PHYSICAL FOULS,No misconduct penalty for kneeing.
+Kneeing,7.8(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Roughing,7.9,PHYSICAL FOULS,Penalties for unnecessary rough play.
+Roughing,7.9(a),PHYSICAL FOULS,Minor for unnecessary rough play or contact after whistle.
+Roughing,7.9(b),PHYSICAL FOULS,Major and game misconduct based on violence or if injury results.
+Roughing,7.9(c),PHYSICAL FOULS,Match penalty for deliberate attempt to injure by roughing.
+Roughing,7.9(d),PHYSICAL FOULS,No misconduct penalty for roughing.
+Roughing,7.9(e),PHYSICAL FOULS,Game misconduct when major penalty assessed.
+Fighting,7.10,PHYSICAL FOULS,Penalties for fighting and related actions.
+Fighting,7.10(a),PHYSICAL FOULS,Minor for goaltender leaving crease during fight.
+Fighting,7.10(b),PHYSICAL FOULS,Major and game misconduct for fighting.
+Fighting,7.10(c),PHYSICAL FOULS,Match penalty for fighting with rings/tape/material to gain advantage.
+Fighting,7.10(d),PHYSICAL FOULS,Misconduct for not returning to bench during fight.
+Fighting,7.10(e),PHYSICAL FOULS,Game misconduct for joining fight or acting as peacemaker.
+Fighting,7.10(f),PHYSICAL FOULS,Gross misconduct for fighting with team official.
+Instigator & Aggressor,7.11,PHYSICAL FOULS,Additional penalties for starting or continuing fights.
+Instigator & Aggressor,7.11(a),PHYSICAL FOULS,Minor for instigator or aggressor in fight.
+Instigator & Aggressor,7.11(b),PHYSICAL FOULS,No major penalty for instigator/aggressor.
+Instigator & Aggressor,7.11(c),PHYSICAL FOULS,No match penalty for instigator/aggressor.
+Instigator & Aggressor,7.11(d),PHYSICAL FOULS,No misconduct penalty for instigator/aggressor.
+Instigator & Aggressor,7.11(e),PHYSICAL FOULS,No game misconduct penalty for instigator/aggressor.
+Holding,8.1,RESTRAINING FOULS,Penalties for restraining opponent's movement.
+Holding,8.1(a),RESTRAINING FOULS,Minor for holding opponent or opponent's stick.
+Holding,8.1(b),RESTRAINING FOULS,Major and game misconduct if injury results.
+Holding,8.1(c),RESTRAINING FOULS,No match penalty for holding.
+Holding,8.1(d),RESTRAINING FOULS,No misconduct penalty for holding.
+Holding,8.1(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Hooking,8.2,RESTRAINING FOULS,Penalties for impeding with stick in pulling motion.
+Hooking,8.2(a),RESTRAINING FOULS,Minor for hooking or butt-end hooking.
+Hooking,8.2(b),RESTRAINING FOULS,Major and game misconduct if injury results.
+Hooking,8.2(c),RESTRAINING FOULS,No match penalty for hooking.
+Hooking,8.2(d),RESTRAINING FOULS,No misconduct penalty for hooking.
+Hooking,8.2(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Interference,8.3,RESTRAINING FOULS,Penalties for impeding player without puck.
+Interference,8.3(a),RESTRAINING FOULS,Minor for various interference actions including goaltender contact.
+Interference,8.3(b),RESTRAINING FOULS,Major and game misconduct based on violence or if injury results.
+Interference,8.3(c),RESTRAINING FOULS,Match penalty for deliberate attempt to injure by interference.
+Interference,8.3(d),RESTRAINING FOULS,No misconduct penalty for interference.
+Interference,8.3(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Interference from the Bench,8.4,RESTRAINING FOULS,Penalties for bench personnel interfering with play.
+Interference from the Bench,8.4(a),RESTRAINING FOULS,Bench minor and game misconduct for interference from bench.
+Interference from the Bench,8.4(b),RESTRAINING FOULS,Major and game misconduct based on violence or resulting injury.
+Interference from the Bench,8.4(c),RESTRAINING FOULS,Match penalty for deliberate attempt to injure.
+Interference from the Bench,8.4(d),RESTRAINING FOULS,No misconduct penalty for interference from bench.
+Interference from the Bench,8.4(e),RESTRAINING FOULS,Game misconduct in most situations under this rule.
+Interference from the Bench,8.4(f),RESTRAINING FOULS,Gross misconduct for team officials who commit interference.
+Interference with the Goaltender,8.5,RESTRAINING FOULS,Penalties for impeding goaltender movement.
+Interference with the Goaltender,8.5(a),RESTRAINING FOULS,Minor for physical contact with goaltender.
+Interference with the Goaltender,8.5(b),RESTRAINING FOULS,Major and game misconduct based on violence or for charging goaltender.
+Interference with the Goaltender,8.5(c),RESTRAINING FOULS,Match penalty for deliberate attempt to injure goaltender.
+Interference with the Goaltender,8.5(d),RESTRAINING FOULS,No misconduct penalty for goaltender interference.
+Interference with the Goaltender,8.5(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Tripping,8.6,RESTRAINING FOULS,Penalties for causing opponent to fall.
+Tripping,8.6(a),RESTRAINING FOULS,Minor for tripping.
+Tripping,8.6(b),RESTRAINING FOULS,Major and game misconduct if injury results.
+Tripping,8.6(c),RESTRAINING FOULS,No match penalty for tripping.
+Tripping,8.6(d),RESTRAINING FOULS,No misconduct penalty for tripping.
+Tripping,8.6(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Clipping,8.7,RESTRAINING FOULS,Penalties for low hits below opponent's hips.
+Clipping,8.7(a),RESTRAINING FOULS,Minor for clipping.
+Clipping,8.7(b),RESTRAINING FOULS,Major and game misconduct based on violence or if injury results.
+Clipping,8.7(c),RESTRAINING FOULS,Match penalty for deliberate attempt to injure by clipping.
+Clipping,8.7(d),RESTRAINING FOULS,No misconduct penalty for clipping.
+Clipping,8.7(e),RESTRAINING FOULS,Game misconduct when major penalty assessed.
+Slew-Footing,8.8,RESTRAINING FOULS,Penalties for taking opponent's feet out from under them.
+Slew-Footing,8.8(a),RESTRAINING FOULS,Double minor for slew-footing.
+Slew-Footing,8.8(b),RESTRAINING FOULS,No major penalty for slew-footing.
+Slew-Footing,8.8(c),RESTRAINING FOULS,Match penalty based on violence of impact or if injury results.
+Slew-Footing,8.8(d),RESTRAINING FOULS,No misconduct penalty for slew-footing.
+Slew-Footing,8.8(e),RESTRAINING FOULS,No game misconduct penalty for slew-footing.
+Butt-Ending,9.1,STICK FOULS,Penalties for jabbing with stick shaft end.
+Butt-Ending,9.1(a),STICK FOULS,Double minor for attempt or minimal violence butt-end.
+Butt-Ending,9.1(b),STICK FOULS,No major penalty for butt-ending.
+Butt-Ending,9.1(c),STICK FOULS,Match penalty based on violence or if injury results.
+Butt-Ending,9.1(d),STICK FOULS,No misconduct penalty for butt-ending.
+Butt-Ending,9.1(e),STICK FOULS,No game misconduct penalty for butt-ending.
+Cross-Checking,9.2,STICK FOULS,Penalties for checking with stick shaft between hands.
+Cross-Checking,9.2(a),STICK FOULS,Minor for cross-checking.
+Cross-Checking,9.2(b),STICK FOULS,Major and game misconduct based on violence or if injury results.
+Cross-Checking,9.2(c),STICK FOULS,Match penalty for deliberate attempt to injure.
+Cross-Checking,9.2(d),STICK FOULS,No misconduct penalty for cross-checking.
+Cross-Checking,9.2(e),STICK FOULS,Game misconduct when major penalty assessed.
+Slashing,9.3,STICK FOULS,Penalties for hitting opponent with stick.
+Slashing,9.3(a),STICK FOULS,Minor for slashing or attempted slashing.
+Slashing,9.3(b),STICK FOULS,Major and game misconduct based on violence or if injury results.
+Slashing,9.3(c),STICK FOULS,Match penalty for deliberate attempt to injure by slashing.
+Slashing,9.3(d),STICK FOULS,No misconduct penalty for slashing.
+Slashing,9.3(e),STICK FOULS,Game misconduct when major penalty assessed.
+Spearing,9.4,STICK FOULS,Penalties for jabbing with stick blade tip.
+Spearing,9.4(a),STICK FOULS,Double minor for attempt or minimal violence spear.
+Spearing,9.4(b),STICK FOULS,No major penalty for spearing.
+Spearing,9.4(c),STICK FOULS,Match penalty for forceful spearing or if injury results.
+Spearing,9.4(d),STICK FOULS,No misconduct penalty for spearing.
+Spearing,9.4(e),STICK FOULS,No game misconduct penalty for spearing.
+High-Sticking – Junior/Senior,9.5,STICK FOULS,Penalties for carrying stick above shoulders in Junior/Senior.
+High-Sticking – Junior/Senior,9.5(a),STICK FOULS,Minor for contacting opponent above shoulder with stick; double minor for accidental injury.
+High-Sticking – Junior/Senior,9.5(b),STICK FOULS,No major penalty for high-sticking (use Head Contact rule).
+High-Sticking – Junior/Senior,9.5(c),STICK FOULS,No match penalty for high-sticking (use Head Contact rule).
+High-Sticking – Junior/Senior,9.5(d),STICK FOULS,No misconduct penalty for high-sticking.
+High-Sticking – Junior/Senior,9.5(e),STICK FOULS,No game misconduct penalty for high-sticking.
+Delay of Game,10.1,OTHER FOULS,Penalties for deliberately delaying play.
+Delay of Game,10.1(a),OTHER FOULS,Minor or bench minor for various delay tactics; penalty shot possible in certain circumstances.
+Delay of Game,10.1(b),OTHER FOULS,No major penalty for delay except under Refusing to Start Play.
+Delay of Game,10.1(c),OTHER FOULS,No match penalty for delay of game.
+Delay of Game,10.1(d),OTHER FOULS,No misconduct penalty for delay of game.
+Delay of Game,10.1(e),OTHER FOULS,No game misconduct penalty for delay of game.
+Handling or Falling on the Puck,10.2,OTHER FOULS,Penalties for illegal puck handling.
+Handling or Falling on the Puck,10.2(a),OTHER FOULS,Play stopped for hand pass; minor for closing hand on puck or falling on puck; penalty shot if in crease.
+Handling or Falling on the Puck,10.2(b),OTHER FOULS,No major penalty for handling puck.
+Handling or Falling on the Puck,10.2(c),OTHER FOULS,No match penalty for handling puck.
+Handling or Falling on the Puck,10.2(d),OTHER FOULS,No misconduct penalty for handling puck.
+Handling or Falling on the Puck,10.2(e),OTHER FOULS,No game misconduct penalty for handling puck.
+Diving & Embellishment,10.3,OTHER FOULS,Penalties for exaggerating or simulating fouls.
+Diving & Embellishment,10.3(a),OTHER FOULS,Minor for unsportsmanlike conduct for diving/embellishment.
+Diving & Embellishment,10.3(b),OTHER FOULS,No major penalty for diving.
+Diving & Embellishment,10.3(c),OTHER FOULS,No match penalty for diving.
+Diving & Embellishment,10.3(d),OTHER FOULS,No misconduct penalty for diving.
+Diving & Embellishment,10.3(e),OTHER FOULS,No game misconduct penalty for diving.
+Leaving the Players' or Penalty Bench,10.4,OTHER FOULS,Penalties for illegal bench exits.
+Leaving the Players' or Penalty Bench,10.4(a),OTHER FOULS,Minor for leaving penalty bench early or illegally; bench minor for team officials entering ice.
+Leaving the Players' or Penalty Bench,10.4(b),OTHER FOULS,No major penalty for leaving bench.
+Leaving the Players' or Penalty Bench,10.4(c),OTHER FOULS,No match penalty for leaving bench.
+Leaving the Players' or Penalty Bench,10.4(d),OTHER FOULS,No misconduct penalty for leaving bench.
+Leaving the Players' or Penalty Bench,10.4(e),OTHER FOULS,Game misconduct for leaving bench during fight; coach penalized if team leaves bench.
+Leaving the Players' or Penalty Bench,10.4(f),OTHER FOULS,Gross misconduct for returning to ice after ejection/misconduct.
+Throwing or Shooting Stick or Object,10.5,OTHER FOULS,Penalties for throwing equipment.
+Throwing or Shooting Stick or Object,10.5(a),OTHER FOULS,Minor for throwing objects; penalty shot when thrown at puck/player in defending zone.
+Throwing or Shooting Stick or Object,10.5(b),OTHER FOULS,Major and game misconduct if injury results.
+Throwing or Shooting Stick or Object,10.5(c),OTHER FOULS,Match penalty for deliberate attempt to injure.
+Throwing or Shooting Stick or Object,10.5(d),OTHER FOULS,Misconduct for throwing equipment out of playing area.
+Throwing or Shooting Stick or Object,10.5(e),OTHER FOULS,Game misconduct when major penalty assessed.
+Illegal Equipment,10.6,OTHER FOULS,Penalties for non-compliant equipment.
+Illegal Equipment,10.6(a),OTHER FOULS,Minor for various equipment violations; bench minor for team captain violations.
+Illegal Equipment,10.6(b),OTHER FOULS,No major penalty for illegal equipment.
+Illegal Equipment,10.6(c),OTHER FOULS,No match penalty for illegal equipment.
+Illegal Equipment,10.6(d),OTHER FOULS,Misconduct for various equipment violations including refusing measurement.
+Illegal Equipment,10.6(e),OTHER FOULS,No game misconduct penalty for illegal equipment.
+Illegal Equipment,10.6(f),OTHER FOULS,Gross misconduct for refusing to correct dangerous equipment or removing helmet during fight.
+Too Many Players,10.7,OTHER FOULS,Penalties for excess players on ice.
+Too Many Players,10.7(a),OTHER FOULS,Bench minor for too many players; penalty shot if deliberate in last two minutes.
+Too Many Players,10.7(b),OTHER FOULS,No major penalty for too many players.
+Too Many Players,10.7(c),OTHER FOULS,No match penalty for too many players.
+Too Many Players,10.7(d),OTHER FOULS,No misconduct penalty for too many players.
+Too Many Players,10.7(e),OTHER FOULS,No game misconduct penalty for too many players.
+Refusing to Start Play,10.8,OTHER FOULS,Penalties for team refusal to play.
+Refusing to Start Play,10.8(a),OTHER FOULS,No minor penalty; officials should use warnings then delay of game before this rule.
+Refusing to Start Play,10.8(b),OTHER FOULS,Major and game misconduct to coach who returns after being ordered to; penalty shot in last two minutes.
+Refusing to Start Play,10.8(c),OTHER FOULS,No match penalty for refusing to start play.
+Refusing to Start Play,10.8(d),OTHER FOULS,No misconduct penalty for refusing to start play.
+Refusing to Start Play,10.8(e),OTHER FOULS,Game misconduct when major penalty assessed.
+Unsportsmanlike Conduct,11.1,MALTREATMENT,Penalties for disrespectful behavior.
+Unsportsmanlike Conduct,11.1(a),MALTREATMENT,Minor or bench minor for unsportsmanlike actions.
+Unsportsmanlike Conduct,11.1(b),MALTREATMENT,No major penalty for unsportsmanlike conduct.
+Unsportsmanlike Conduct,11.1(c),MALTREATMENT,No match penalty for unsportsmanlike conduct.
+Unsportsmanlike Conduct,11.1(d),MALTREATMENT,Misconduct for persisting in conduct distraction during penalty shot or other specific actions.
+Unsportsmanlike Conduct,11.1(e),MALTREATMENT,Game misconduct for continued unsportsmanlike conduct after minor or misconduct.
+Abusive Behaviour,11.2,MALTREATMENT,Penalties for targeted profane or threatening conduct.
+Abusive Behaviour,11.2(a),MALTREATMENT,Bench minor for team official or unidentified player using abusive conduct.
+Abusive Behaviour,11.2(b),MALTREATMENT,No major penalty for abusive behavior.
+Abusive Behaviour,11.2(c),MALTREATMENT,No match penalty for abusive behavior.
+Abusive Behaviour,11.2(d),MALTREATMENT,Misconduct for player using abusive conduct.
+Abusive Behaviour,11.2(e),MALTREATMENT,Game misconduct for persistent abuse or team official abuse.
+Abusive Behaviour,11.2(f),MALTREATMENT,Gross misconduct for actions making travesty of game.
+Spitting,11.3,MALTREATMENT,Penalties for spitting at individuals.
+Spitting,11.3(a),MALTREATMENT,No minor penalty for spitting.
+Spitting,11.3(b),MALTREATMENT,No major penalty for spitting.
+Spitting,11.3(c),MALTREATMENT,Match penalty for deliberately spitting at any individual.
+Spitting,11.3(d),MALTREATMENT,No misconduct penalty for spitting.
+Spitting,11.3(e),MALTREATMENT,No game misconduct penalty for spitting.
+Discrimination,11.4,MALTREATMENT,Penalties for discriminatory taunts or conduct.
+Discrimination,11.4,MALTREATMENT,Gross misconduct for taunts based on race religion gender sexual orientation etc.
+Physical Harassment of Officials,11.5,MALTREATMENT,Penalties for physical confrontation with officials.
+Physical Harassment of Officials,11.5(a),MALTREATMENT,No minor penalty for official harassment.
+Physical Harassment of Officials,11.5(b),MALTREATMENT,No major penalty for official harassment.
+Physical Harassment of Officials,11.5(c),MALTREATMENT,Match penalty for threatening applying force to or injuring an official.
+Physical Harassment of Officials,11.5(d),MALTREATMENT,No misconduct penalty for official harassment.
+Physical Harassment of Officials,11.5(e),MALTREATMENT,Game misconduct for accidental contact with official during altercation.
