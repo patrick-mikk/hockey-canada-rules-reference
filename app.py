@@ -98,7 +98,7 @@ st.markdown(f"""
 # Custom page header
 st.markdown("""
 <div class="main-header">
-  <h1>Hockey Canada Rules Reference</h1>
+  <h1>Hockey Canada Rules: Quick Reference</h1>
 </div>
 """, unsafe_allow_html=True)
 
